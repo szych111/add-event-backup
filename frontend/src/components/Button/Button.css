@@ -1,0 +1,16 @@
+.button {
+    background-color: rgb(29, 53, 53);
+    text-transform: uppercase;
+    border: none;
+    outline: none;
+    border-radius: 2px;
+    cursor: pointer;
+    color: white;
+    padding: 0.5em 1em;
+    transition: ease-in-out 500ms;
+}
+
+.button:hover {
+    background-color: rgb(59, 18, 18);
+    padding: 0.5em 1.3em;
+}

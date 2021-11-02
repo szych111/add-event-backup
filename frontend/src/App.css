@@ -1,0 +1,15 @@
+.App {
+  text-align: center;
+  background-color: rgb(20, 54, 54);
+  color: white;
+  width: 60%;
+  max-width: 800px;
+  margin: 1vmax auto 3vmax;
+  padding: 2vmax 3vmax 4vmax;
+  box-shadow: 2px 5px 15px rgb(117, 114, 114);
+}
+
+h1 {
+  text-transform: uppercase;
+}
+
